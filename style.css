@@ -1,0 +1,20 @@
+h1 {
+    color: antiquewhite;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h5 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.form-group {
+    margin-top: 12px;
+}
+
+footer {
+    margin-top: 55px;
+    color: rgb(155, 110, 110);
+    text-align: center;
+    font-weight: 400;
+}
